@@ -1,0 +1,8 @@
+<advancedsettings>
+	<video>
+		<timeseekforward>5</timeseekforward>
+		<timeseekbackward>-5</timeseekbackward>
+		<timeseekforwardbig>60</timeseekforwardbig>
+		<timeseekbackwardbig>-60</timeseekbackwardbig>
+	</video>
+</advancedsettings>
